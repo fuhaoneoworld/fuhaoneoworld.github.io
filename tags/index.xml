@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Site</title>
-    <link>https://example.org/tags/</link>
+    <link>https://luhao.org/tags/</link>
     <description>Recent content in Tags on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://luhao.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://example.org/tags/css/</link>
+      <link>https://luhao.org/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/css/</guid>
+      <guid>https://luhao.org/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>html</title>
-      <link>https://example.org/tags/html/</link>
+      <link>https://luhao.org/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/html/</guid>
+      <guid>https://luhao.org/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>markdown</title>
-      <link>https://example.org/tags/markdown/</link>
+      <link>https://luhao.org/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/markdown/</guid>
+      <guid>https://luhao.org/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>privacy</title>
-      <link>https://example.org/tags/privacy/</link>
+      <link>https://luhao.org/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/privacy/</guid>
+      <guid>https://luhao.org/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>shortcodes</title>
-      <link>https://example.org/tags/shortcodes/</link>
+      <link>https://luhao.org/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/shortcodes/</guid>
+      <guid>https://luhao.org/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>text</title>
-      <link>https://example.org/tags/text/</link>
+      <link>https://luhao.org/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/text/</guid>
+      <guid>https://luhao.org/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>emoji</title>
-      <link>https://example.org/tags/emoji/</link>
+      <link>https://luhao.org/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/emoji/</guid>
+      <guid>https://luhao.org/tags/emoji/</guid>
       <description></description>
     </item>
     <item>
       <title>index</title>
-      <link>https://example.org/tags/index/</link>
+      <link>https://luhao.org/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/index/</guid>
+      <guid>https://luhao.org/tags/index/</guid>
       <description></description>
     </item>
   </channel>

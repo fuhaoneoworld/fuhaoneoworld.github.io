@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/products/example/</loc>
+    <loc>https://luhao.org/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://luhao.org/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/products/</loc>
+    <loc>https://luhao.org/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://luhao.org/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/css/</loc>
+    <loc>https://luhao.org/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/html/</loc>
+    <loc>https://luhao.org/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/markdown/</loc>
+    <loc>https://luhao.org/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/markdown-syntax/</loc>
+    <loc>https://luhao.org/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://luhao.org/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/syntax/</loc>
+    <loc>https://luhao.org/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://luhao.org/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/themes/</loc>
+    <loc>https://luhao.org/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/privacy/</loc>
+    <loc>https://luhao.org/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/rich-content/</loc>
+    <loc>https://luhao.org/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/shortcodes/</loc>
+    <loc>https://luhao.org/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/placeholder-text/</loc>
+    <loc>https://luhao.org/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/text/</loc>
+    <loc>https://luhao.org/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/math-typesetting/</loc>
+    <loc>https://luhao.org/blog/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/emoji/</loc>
+    <loc>https://luhao.org/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/emoji-support/</loc>
+    <loc>https://luhao.org/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://luhao.org/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://luhao.org/contact/</loc>
   </url><url>
-    <loc>https://example.org/tags/index/</loc>
+    <loc>https://luhao.org/tags/index/</loc>
   </url>
 </urlset>
